@@ -1,7 +1,7 @@
 ProjectC chart editor
 ===============
 
-This project has been made for the OOP course at my university, I accept criticism.
+This project has been made during the OOP course @ UniPD 2021/2022.
 The purpose of this program is to create and manage charts, edit and store them using a table for
 edit the graph that can be shown on the right in three different ways:  
 - Bar chart  
