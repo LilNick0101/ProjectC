@@ -5,7 +5,7 @@ This project has been made during the OOP course @ UniPD 2021/2022.
 The purpose of this program is to create and manage charts, edit and store them using a table for
 edit the graph that can be shown on the right in three different ways:  
 - Bar chart  
-- Cartesian graphic designer  
+- Cartesian chart
 - Pie chart  
 
 In this programm you can add labels and edit the chart as you wish by adding rows and columns in the editing table
